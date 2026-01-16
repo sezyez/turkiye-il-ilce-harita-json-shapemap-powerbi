@@ -1,3 +1,3 @@
-Lisemetre.com için hazırladığım Türkiye'nin il ve ilçe json formatında haritaları
+[Lisemetre.com](https://lisemetre.com) için hazırladığım Türkiye'nin il ve ilçe JSON formatında haritaları.
 
-Power BI shape map üzerinde kullanabilirsiniz. Yökatlas üzerinde bulunan il ve ilçe isimleriyle tam olarak uyumlu.
+Power BI Shape Map üzerinde kullanabilirsiniz. YÖK Atlas üzerinde bulunan il ve ilçe isimleriyle tam olarak uyumludur.
