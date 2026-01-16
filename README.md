@@ -1,2 +1,3 @@
-# turkiye-il-ilce-harita-json-shapemap-powerbi
-turkiye için il ve ilçe json haritaları - power bi shapemap olarak kullanılabilir - yokatlas uyumlu
+Lisemetre.com için hazırladığım Türkiye'nin il ve ilçe json formatında haritaları
+
+Power BI shape map üzerinde kullanabilirsiniz. Yökatlas üzerinde bulunan il ve ilçe isimleriyle tam olarak uyumlu.
